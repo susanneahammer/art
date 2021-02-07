@@ -1,5 +1,6 @@
-[Über mich](images/readme.txt)
-[Über mich2](images/readme.txt)
+[paintings](images/readme.txt)
+[Info](images/readme.txt)
+***
 
 <!--![Image](images/2020-001.jpg)-->
 <img src="images/2021-002.jpg"/><b>2021#002</b>
