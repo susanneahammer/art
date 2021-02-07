@@ -1,7 +1,5 @@
-## Welcome to my virtual exhibition 
+## 
 <!--![Image](images/2020-001.jpg)-->
-### Howalgonium
+### 2020#001
 <img src="images/2020-001.jpg"/>
 
-### Ynkelonium
-<img src="images/2021-001.jpg"/>
