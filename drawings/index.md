@@ -70,7 +70,7 @@
     <hr>
     <footer class="footer" role="contentinfo"> 
       <small> 
-        © 2019 Susanne Ahammer / <a href="/atom.xml">RSS Feed</a>. 
+        © 2021 Susanne Ahammer / <a href="/atom.xml">RSS Feed</a>. 
       </small>
     </footer>
   </body>
