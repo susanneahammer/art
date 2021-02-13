@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!--![Image](images/2020-001.jpg)
 <img src="images/2021-002.jpg"/><b>2021#002</b>
 <p></p>
@@ -7,8 +8,6 @@
 <p></p>
 <img src="images/2021-001.jpg"/><b>2021#001</b>
 <p></p>-->
-
-<!DOCTYPE html>
 <html lang="en">
   <head><meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,16 +37,17 @@
   <header role="banner">
     <nav role="navigation">
       <ul>
-      <li><a href="/" class="active">Index</a></li>
-      <li><a href="/paintings" >Paintings</a></li>
-      <li><a href="/drawings" >Drawings</a></li>
-      <li><a href="/photography" >Photography</a></li>
+      <li><a href="/index.md" class="active">Index</a></li>
+      <li><a href="/paintings.md" >Paintings</a></li>
+      <li><a href="/drawings.md" >Drawings</a></li>
+      <li><a href="/photography.md" >Photography</a></li>
       </ul>
     </nav>
   </header><hr><main id="main" role="main">
   <article class="post index" role="article">
     <h1 class="post-title">Susanne Ahammer</h1>
   </article>
+    <img src="images/2021-002.jpg"/><b>2021#002</b>
   </main>
   <hr>
   <footer class="footer" role="contentinfo">
