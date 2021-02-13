@@ -1,12 +1,12 @@
 <!--<!DOCTYPE html>-->
 <!--[Image](images/2020-001.jpg)
-<img src="images/2021-002.jpg"/><b>2021#002</b>
+<img src="images/paintings/2021-002.jpg"/><b>2021#002</b>
 <p></p>
-<img src="images/2021-003.jpg"/><b>2021#003</b>
+<img src="images/paintings/2021-003.jpg"/><b>2021#003</b>
 <p></p>
-<img src="images/2020-001.jpg"/><b>2020#001</b>
+<img src="images/paintings/2020-001.jpg"/><b>2020#001</b>
 <p></p>
-<img src="images/2021-001.jpg"/><b>2021#001</b>
+<img src="images/paintings/2021-001.jpg"/><b>2021#001</b>
 <p></p>-->
 <html lang="en">
   <head><meta charset="UTF-8">
@@ -37,10 +37,10 @@
   <header role="banner">
     <nav role="navigation">
       <ul>
-      <li><a href="/painting/index.md" class="active">Index</a></li>
-      <li><a href="/paintings/paintings.md" >Paintings</a></li>
-      <li><a href="/drawings.md" >Drawings</a></li>
-      <li><a href="/photography.md" >Photography</a></li>
+      <li><a href="/art/index.md" class="active">Index</a></li>
+      <li><a href="/art/paintings.md" >Paintings</a></li>
+      <li><a href="/art/drawings.md" >Drawings</a></li>
+      <li><a href="/art/photography.md" >Photography</a></li>
       </ul>
     </nav>
   </header><hr><main id="main" role="main">
