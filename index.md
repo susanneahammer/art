@@ -39,8 +39,8 @@
       <ul>
       <li><a href="/art" class="active">Index</a></li>
       <li><a href="/art/paintings" >Paintings</a></li>
-      <li><a href="/art/drawings.md" >Drawings</a></li>
-      <li><a href="/art/photography.md" >Photography</a></li>
+      <li><a href="/art/drawings" >Drawings</a></li>
+      <li><a href="/art/photography" >Photography</a></li>
       </ul>
     </nav>
   </header><hr><main id="main" role="main">
