@@ -29,7 +29,7 @@
     <header role="banner">
       <nav role="navigation">
         <ul>
-          <li><a href="/" >Home</a></li>
+          <li><a href="/art" >Home</a></li>
           <li><a href="/paintings" class="active">Paintings</a></li>
           <li><a href="/drawings" >Drawings</a></li>
           <li><a href="/photography" >Photography</a></li>
