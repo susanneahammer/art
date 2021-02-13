@@ -37,7 +37,7 @@
   <header role="banner">
     <nav role="navigation">
       <ul>
-      <li><a href="/art" class="active">Index</a></li>
+      <li><a href="/art" class="active">Home</a></li>
       <li><a href="/art/paintings" >Paintings</a></li>
       <li><a href="/art/drawings" >Drawings</a></li>
       <li><a href="/art/photography" >Photography</a></li>
@@ -47,7 +47,7 @@
   <article class="post index" role="article">
     <h1 class="post-title">Susanne Ahammer Art</h1>
   </article>
-    <img src="images/2021-002.jpg"/><b>2021#002</b>
+    <img src="paintings/images/2021-002.jpg"/><b>2021#002</b>
   </main>
   <hr>
   <footer class="footer" role="contentinfo">
