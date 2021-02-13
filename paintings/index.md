@@ -64,13 +64,12 @@
     <main id="main" role="main">
       <!--This is the Paintigs page-->
       <!--[Image](images/2020-001.jpg)-->
-      <img src="images/2021-002.jpg"/><b>2021#002</b>
+      <img src="images/Painting-2021-001.jpg"/><b>Painting-2021-001</b>
       <p></p>
-      <img src="images/2021-003.jpg"/><b>2021#003</b>
+      <img src="images/Painting-2021-002.jpg"/><b>Painting-2021-002</b>
       <p></p>
-      <img src="images/2020-001.jpg"/><b>2020#001</b>
-      <p></p>
-      <img src="images/2021-001.jpg"/><b>2021#001</b>
+      <img src="images/Painting-2020-001.jpg"/><b>Painting-2020-001</b>
+
       <p></p>
     </main>
     <hr>
