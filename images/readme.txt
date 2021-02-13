@@ -1,1 +1,1 @@
-This folder holds image files
+These subfolder hold image files
