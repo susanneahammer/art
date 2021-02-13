@@ -30,9 +30,9 @@
       <nav role="navigation">
         <ul>
           <li><a href="/art" >Home</a></li>
-          <li><a href="/paintings" class="active">Paintings</a></li>
-          <li><a href="/drawings" >Drawings</a></li>
-          <li><a href="/photography" >Photography</a></li>
+          <li><a href="/art/paintings" class="active">Paintings</a></li>
+          <li><a href="/art/drawings" >Drawings</a></li>
+          <li><a href="/art/photography" >Photography</a></li>
         </ul>
       </nav>
     </header>
