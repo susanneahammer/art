@@ -1,2 +1,2 @@
-# paintings
+# art
 Susanne Ahammer
