@@ -1,1 +1,1 @@
-This holds iamges of paintings
+This holds images of paintings
