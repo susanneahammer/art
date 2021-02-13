@@ -37,8 +37,8 @@
   <header role="banner">
     <nav role="navigation">
       <ul>
-      <li><a href="/art/index.md" class="active">Index</a></li>
-      <li><a href="/art/paintings.md" >Paintings</a></li>
+      <li><a href="/art" class="active">Index</a></li>
+      <li><a href="/art/paintings" >Paintings</a></li>
       <li><a href="/art/drawings.md" >Drawings</a></li>
       <li><a href="/art/photography.md" >Photography</a></li>
       </ul>
