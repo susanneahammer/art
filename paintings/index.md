@@ -69,13 +69,12 @@
       <img src="images/Painting-2021-002.jpg"/><b>Painting-2021-002</b>
       <p></p>
       <img src="images/Painting-2020-001.jpg"/><b>Painting-2020-001</b>
-
       <p></p>
     </main>
     <hr>
     <footer class="footer" role="contentinfo"> 
       <small> 
-        © 2019 Susanne Ahammer / <a href="/atom.xml">RSS Feed</a>. 
+        © 2021 Susanne Ahammer / <a href="/atom.xml">RSS Feed</a>. 
       </small>
     </footer>
   </body>
