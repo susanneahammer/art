@@ -68,7 +68,7 @@
   </article>
   <article role="article">
     <h2><a href="/contact/"> Contact </a></h2>
-    <p>susanne.aha@gmail.com</p>
+    <p>e-mail susanne.aha@gmail.com</p>
   </article>
   </main>
   <hr>
