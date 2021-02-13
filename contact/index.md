@@ -67,8 +67,8 @@
     <!--<h1 class="post-title">Susanne Ahammer Art</h1>-->
   </article>
   <article role="article">
-    <h2><a href="/contact/"> Contact </a></h2>
-    <p>e-mail susanne.aha@gmail.com</p>
+    <h2><a href="/art/contact"> Contact </a></h2>
+    <p>e-mail: susanne.aha@gmail.com</p>
   </article>
   </main>
   <hr>
