@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <!--[Image](images/2020-001.jpg)
 <img src="images/2021-002.jpg"/><b>2021#002</b>
 <p></p>
@@ -37,8 +37,8 @@
   <header role="banner">
     <nav role="navigation">
       <ul>
-      <li><a href="/index.md" class="active">Index</a></li>
-      <li><a href="/paintings.md" >Paintings</a></li>
+      <li><a href="/painting/index.md" class="active">Index</a></li>
+      <li><a href="/paintings/paintings.md" >Paintings</a></li>
       <li><a href="/drawings.md" >Drawings</a></li>
       <li><a href="/photography.md" >Photography</a></li>
       </ul>
