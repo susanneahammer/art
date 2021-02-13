@@ -59,6 +59,7 @@
       <li><a href="/art/paintings" >Paintings</a></li>
       <li><a href="/art/drawings" >Drawings</a></li>
       <li><a href="/art/photography" >Photography</a></li>
+      <li><a href="/art/contact" >Contact</a></li>
       </ul>
     </nav>
   </header><hr><main id="main" role="main">
