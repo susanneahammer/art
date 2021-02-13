@@ -53,8 +53,8 @@
       <nav role="navigation">
         <ul>
           <li><a href="/art" >Home</a></li>
-          <li><a href="/art/paintings" class="active">Paintings</a></li>
-          <li><a href="/art/drawings" >Drawings</a></li>
+          <li><a href="/art/paintings" >Paintings</a></li>
+          <li><a href="/art/drawings" class="active">Drawings</a></li>
           <li><a href="/art/photography" >Photography</a></li>
             <li><a href="/art/contact" >Contact</a></li>
         </ul>
@@ -64,7 +64,7 @@
     <main id="main" role="main">
       <!--This is the Drawings main page-->
       <!--[Image](images/Drawings-2021-001.jpg)-->
-      <img src="images/Drawings-2021-001.jpg"/><b>Drawing-2021-001</b>
+      <img src="images/Drawing-2021-001.jpg"/><b>Drawing-2021-001</b>
       <p></p>   
     </main>
     <hr>
