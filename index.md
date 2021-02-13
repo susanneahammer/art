@@ -66,7 +66,7 @@
   <article class="post index" role="article">
     <!--<h1 class="post-title">Susanne Ahammer Art</h1>-->
   </article>
-    <img src="paintings/images/2021-002.jpg"/><b>2021#002</b>
+    <img src="paintings/images/Painting-2021-001.jpg"/><b>2021#002</b>
   </main>
   <hr>
   <footer class="footer" role="contentinfo">
