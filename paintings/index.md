@@ -70,6 +70,10 @@
       <p></p>
       <img src="images/Painting-2020-001.jpg"/><b>Painting-2020-001</b>
       <p></p>
+	  <img src="images/Painting-2019-001.jpg"/><b>Painting-2019-001</b>
+      <p></p>
+	  <img src="images/Painting-2015-001.jpg"/><b>Painting-2015-001</b>
+      <p></p>
     </main>
     <hr>
     <footer class="footer" role="contentinfo"> 
