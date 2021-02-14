@@ -3,7 +3,7 @@
   <head><meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-      Index | Ultra
+      Home | art
     </title>
     <meta name="generator" content="Jekyll v4.1.1" />
     <meta property="og:title" content="Home" />
@@ -71,7 +71,7 @@
   <hr>
   <footer class="footer" role="contentinfo">
   <small>
-    © 2021 Susanne Ahammer / <a href="/atom.xml">RSS Feed</a>.
+    © 2021 Susanne Ahammer
   </small>
   </footer>
 </body>

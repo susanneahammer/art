@@ -3,20 +3,20 @@
   <head><meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-      Index | Ultra
+      Contact | art
     </title>
     <meta name="generator" content="Jekyll v4.1.1" />
     <meta property="og:title" content="Home" />
     <meta property="og:locale" content="en_US" />
     <meta name="description" content="Susanne Ahammer art" />
     <meta property="og:description" content="Susanne Ahammer art" />
-    <link rel="canonical" href="https://susanneahammer.github.io/art/" />
-    <meta property="og:url" content="https://susanneahammer.github.io/art/" />
-    <meta property="og:site_name" content="art" />
+    <link rel="canonical" href="https://susanneahammer.github.io/art/contact/" />
+    <meta property="og:url" content="https://susanneahammer.github.io/art/contact/" />
+    <meta property="og:site_name" content="contact" />
     <meta name="twitter:card" content="summary" />
     <meta property="twitter:title" content="Home" />
     <meta name="twitter:site" content="@yourusername" /> 
-    <script type="application/ld+json"> {"headline":"Index","description":Susanne Ahammer art","name":"art","@type":"WebSite","url":"https://susanneahammer.github.io/art/","@context":"https://schema.org"}
+    <script type="application/ld+json"> {"headline":"Index","description":Susanne Ahammer art","name":"art","@type":"WebSite","url":"https://susanneahammer.github.io/art/contact/","@context":"https://schema.org"}
     </script>
     <link rel="shortcut icon" href="/favicon.png">
     <link rel="alternate" type="application/atom+xml" title="SA art" href="/atom.xml">
@@ -75,7 +75,7 @@
   <hr>
   <footer class="footer" role="contentinfo">
   <small>
-    © 2021 Susanne Ahammer / <a href="/atom.xml">RSS Feed</a>.
+    © 2021 Susanne Ahammer
   </small>
   </footer>
 </body>
